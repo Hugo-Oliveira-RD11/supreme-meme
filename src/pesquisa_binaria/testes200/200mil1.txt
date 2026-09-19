@@ -1,0 +1,47 @@
+==TERMINO DA PESQUISA== 
+elemento encontrado
+indice = 103464
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
+==TERMINO DA PESQUISA== 
+elemento encontrado
+indice = 7776
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
+==TERMINO DA PESQUISA== 
+elemento encontrado
+indice = 102029
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
+==TERMINO DA PESQUISA== 
+elemento encontrado
+indice = 78686
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
+==TERMINO DA PESQUISA== 
+elemento encontrado
+indice = 198999
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
+==TERMINO DA PESQUISA== 
+elemento nao encontrado
+Inicio: 0.022
+Termino: 0.022
+Tempo de execucao: 0.000
+
+
