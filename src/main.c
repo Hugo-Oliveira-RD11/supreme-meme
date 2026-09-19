@@ -18,7 +18,8 @@ int Gerar(int* v,int n){
   clock_t termino = clock();
   printf("==TERMINO DO VETOR== \n");
 
-  printf("Inicio: %Lf\nTermino: %Lf\nTempo de execucao: %Lf",(long double)inicio, (long double)termino,(long double) ((termino-inicio)/CLOCKS_PER_SEC));
+  double tempo_total = ((double) termino-inicio)/CLOCKS_PER_SEC;
+  printf("Inicio: %lf\nTermino: %lf\nTempo de execucao: %lf",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total);
 
 }
 
