@@ -19,17 +19,20 @@ int Gerar(int* v,int n){
   printf("==TERMINO DO VETOR== \n");
 
   double tempo_total = ((double) termino-inicio)/CLOCKS_PER_SEC;
-  printf("Inicio: %lf\nTermino: %lf\nTempo de execucao: %lf",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total);
+  printf("Inicio: %.3lf\nTermino: %.3lf\nTempo de execucao: %.3lf",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total);
 
 }
 
 int main(){
   /* int * V = (int *) malloc (N * sizeof(int)); */
-  int v_a[VETOR_A];
-  Gerar(v_a, VETOR_A);
-  /* int v_b[VETOR_B]; */
+  /* int * v_a = (int *) malloc (VETOR_A * sizeof(int)); */
+  /* Gerar(v_a, VETOR_A); */
+  /* free(v_a); */
+  /* int * v_b = (int *) malloc (VETOR_B * sizeof(int)); */
   /* Gerar(v_b, VETOR_B); */
-  /* int v_c[VETOR_C]; */
-  /* Gerar(v_c, VETOR_C); */
+  /* free(v_b); */
+  int * v_c = (int *) malloc (VETOR_C * sizeof(int));
+  Gerar(v_c, VETOR_C);
+  free(v_c);
   return 0;
 }
