@@ -100008,7 +100008,7 @@ elemento encontrado
 indice = 0
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000002
 
 
 ==TERMINO DA PESQUISA== 
@@ -100017,7 +100017,7 @@ elemento encontrado
 indice = 24999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000011
 
 
 ==TERMINO DA PESQUISA== 
@@ -100026,7 +100026,7 @@ elemento encontrado
 indice = 49999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000020
 
 
 ==TERMINO DA PESQUISA== 
@@ -100035,7 +100035,7 @@ elemento encontrado
 indice = 74999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000030
 
 
 ==TERMINO DA PESQUISA== 
@@ -100044,7 +100044,7 @@ elemento encontrado
 indice = 99999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000040
 
 
 ==TERMINO DA PESQUISA== 
@@ -100052,7 +100052,7 @@ numero de comparacoes (sequencial)= 100000
 elemento nao encontrado
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000040
 
 
 =========== PESQUISAS BINARIA==============
@@ -100064,7 +100064,7 @@ elemento encontrado
 indice = 0
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
 ==TERMINO DA PESQUISA== 
@@ -100073,7 +100073,7 @@ elemento encontrado
 indice = 24999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
 ==TERMINO DA PESQUISA== 
@@ -100082,7 +100082,7 @@ elemento encontrado
 indice = 49999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
 ==TERMINO DA PESQUISA== 
@@ -100091,7 +100091,7 @@ elemento encontrado
 indice = 74999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
 ==TERMINO DA PESQUISA== 
@@ -100100,7 +100100,7 @@ elemento encontrado
 indice = 99999
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
 ==TERMINO DA PESQUISA== 
@@ -100108,6 +100108,6 @@ numero de comparacoes (binario)= 16
 elemento nao encontrado
 Inicio: 0.019
 Termino: 0.019
-Tempo de execucao: 0.000
+Tempo de execucao: 0.000001
 
 
