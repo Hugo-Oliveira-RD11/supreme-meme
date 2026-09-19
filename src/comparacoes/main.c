@@ -57,6 +57,8 @@ int main(){
 
   imprimir_array(v_a, VETOR_A);
 
+  printf("=========== PESQUISAS SEQUENCIAIS==============\n\n\n");
+
   for(int i =0; i<6;i++){
     clock_t inicio_sequencial = clock();
     encontrou = PesquisaSequencial(v_a, VETOR_A, target[i], &comparacoes);
@@ -74,7 +76,8 @@ int main(){
     comparacoes = 0;
 
   }
-  printf("===========TERMINO DAS PESQUISAS SEQUENCIAIS==============\n\n\n");
+
+  printf("=========== PESQUISAS BINARIA==============\n\n\n");
 
   comparacoes = 0;
 

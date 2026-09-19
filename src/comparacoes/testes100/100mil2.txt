@@ -100006,8 +100006,8 @@
 numero de comparacoes (sequencial)= 1
 elemento encontrado
 indice = 0
-Inicio: 0.018
-Termino: 0.018
+Inicio: 0.019
+Termino: 0.019
 Tempo de execucao: 0.000
 
 
@@ -100015,8 +100015,8 @@ Tempo de execucao: 0.000
 numero de comparacoes (sequencial)= 25000
 elemento encontrado
 indice = 24999
-Inicio: 0.018
-Termino: 0.018
+Inicio: 0.019
+Termino: 0.019
 Tempo de execucao: 0.000
 
 
@@ -100024,8 +100024,8 @@ Tempo de execucao: 0.000
 numero de comparacoes (sequencial)= 50000
 elemento encontrado
 indice = 49999
-Inicio: 0.018
-Termino: 0.018
+Inicio: 0.019
+Termino: 0.019
 Tempo de execucao: 0.000
 
 
@@ -100033,8 +100033,8 @@ Tempo de execucao: 0.000
 numero de comparacoes (sequencial)= 75000
 elemento encontrado
 indice = 74999
-Inicio: 0.018
-Termino: 0.018
+Inicio: 0.019
+Termino: 0.019
 Tempo de execucao: 0.000
 
 
@@ -100042,15 +100042,15 @@ Tempo de execucao: 0.000
 numero de comparacoes (sequencial)= 100000
 elemento encontrado
 indice = 99999
-Inicio: 0.018
-Termino: 0.018
+Inicio: 0.019
+Termino: 0.019
 Tempo de execucao: 0.000
 
 
 ==TERMINO DA PESQUISA== 
 numero de comparacoes (sequencial)= 100000
 elemento nao encontrado
-Inicio: 0.018
+Inicio: 0.019
 Termino: 0.019
 Tempo de execucao: 0.000
 
