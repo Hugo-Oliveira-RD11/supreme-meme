@@ -62,7 +62,7 @@ int main(){
   /*   if(encontrou != -1) printf("elemento encontrado\nindice = %d\n",encontrou); */
   /*   else printf("elemento nao encontrado\n"); */
   /*   double tempo_total = ((double) termino-inicio)/CLOCKS_PER_SEC; */
-  /*   printf("Inicio: %.3lf\nTermino: %.3lf\nTempo de execucao: %.3lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total); */
+  /*   printf("Inicio: %lf\nTermino: %lf\nTempo de execucao: %lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total); */
 
   /* } */
 
@@ -90,7 +90,7 @@ int main(){
   /*   if(encontrou != -1) printf("elemento encontrado\nindice = %d\n",encontrou); */
   /*   else printf("elemento nao encontrado\n"); */
   /*   double tempo_total = ((double) termino-inicio)/CLOCKS_PER_SEC; */
-  /*   printf("Inicio: %.3lf\nTermino: %.3lf\nTempo de execucao: %.3lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total); */
+  /*   printf("Inicio: %lf\nTermino: %lf\nTempo de execucao: %lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total); */
 
   /* } */
 
@@ -119,7 +119,7 @@ int main(){
     if(encontrou != -1) printf("elemento encontrado\nindice = %d\n",encontrou);
     else printf("elemento nao encontrado\n");
     double tempo_total = ((double) termino-inicio)/CLOCKS_PER_SEC;
-    printf("Inicio: %.3lf\nTermino: %.3lf\nTempo de execucao: %.3lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total);
+    printf("Inicio: %lf\nTermino: %lf\nTempo de execucao: %lf\n\n\n",(double)inicio/CLOCKS_PER_SEC, (double)termino/CLOCKS_PER_SEC, tempo_total);
 
   }
 
