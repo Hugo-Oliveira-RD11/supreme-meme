@@ -1,0 +1,4 @@
+Relatorio 1 para o vetor de tamanho 200000
+Tempo Inicio: 0.013933
+Tempo Termino: 0.015762
+Tempo do Teste: 0.001829
