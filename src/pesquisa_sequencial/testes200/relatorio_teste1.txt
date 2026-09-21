@@ -2,39 +2,39 @@ Relatorio 1 para o vetor de tamanho 200000
 
 --- Busca do Alvo: 1111381307 ---
 Elemento encontrado no indice = 103464
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
-Tempo de execucao: 0.000032 segundos
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
+Tempo de execucao: 0.000033 segundos
 
 --- Busca do Alvo: 84434356 ---
 Elemento encontrado no indice = 7776
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
 Tempo de execucao: 0.000003 segundos
 
 --- Busca do Alvo: 1096188887 ---
 Elemento encontrado no indice = 102029
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
-Tempo de execucao: 0.000032 segundos
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
+Tempo de execucao: 0.000068 segundos
 
 --- Busca do Alvo: 846248342 ---
 Elemento encontrado no indice = 78686
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
-Tempo de execucao: 0.000025 segundos
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
+Tempo de execucao: 0.000051 segundos
 
 --- Busca do Alvo: 2136419159 ---
 Elemento encontrado no indice = 198999
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
-Tempo de execucao: 0.000062 segundos
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
+Tempo de execucao: 0.000125 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo de Inicio: 0.112662
-Tempo do termino: 0.112723
-Tempo de execucao: 0.000061 segundos
+Tempo de Inicio: 0.043016
+Tempo do termino: 0.043127
+Tempo de execucao: 0.000111 segundos
 
 ===== Array Ordenado ====
 7720

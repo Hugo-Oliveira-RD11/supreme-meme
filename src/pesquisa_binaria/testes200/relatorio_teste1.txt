@@ -2,38 +2,38 @@ Relatorio 1 para o vetor de tamanho 200000 (Pesquisa Binaria)
 
 --- Busca do Alvo: 1111381307 ---
 Elemento encontrado no indice = 103464
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 84434356 ---
 Elemento encontrado no indice = 7776
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 1096188887 ---
 Elemento encontrado no indice = 102029
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 846248342 ---
 Elemento encontrado no indice = 78686
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 2136419159 ---
 Elemento encontrado no indice = 198999
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo inicio: 0.119004
-Tempo do termino: 0.119005
+Tempo inicio: 0.042815
+Tempo do termino: 0.042816
 Tempo de execucao: 0.000001 segundos
 
 ===== Array Ordenado ====

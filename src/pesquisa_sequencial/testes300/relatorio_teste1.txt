@@ -2,39 +2,39 @@ Relatorio 1 para o vetor de tamanho 300000
 
 --- Busca do Alvo: 2136720149 ---
 Elemento encontrado no indice = 298540
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
 Tempo de execucao: 0.000090 segundos
 
 --- Busca do Alvo: 1749524285 ---
 Elemento encontrado no indice = 244287
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
-Tempo de execucao: 0.000074 segundos
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
+Tempo de execucao: 0.000078 segundos
 
 --- Busca do Alvo: 1380923657 ---
 Elemento encontrado no indice = 192764
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
-Tempo de execucao: 0.000061 segundos
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
+Tempo de execucao: 0.000115 segundos
 
 --- Busca do Alvo: 545800645 ---
 Elemento encontrado no indice = 76508
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
-Tempo de execucao: 0.000024 segundos
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
+Tempo de execucao: 0.000023 segundos
 
 --- Busca do Alvo: 714204102 ---
 Elemento encontrado no indice = 99998
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
-Tempo de execucao: 0.000030 segundos
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
+Tempo de execucao: 0.000041 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo de Inicio: 0.156886
-Tempo do termino: 0.156976
-Tempo de execucao: 0.000090 segundos
+Tempo de Inicio: 0.087057
+Tempo do termino: 0.087232
+Tempo de execucao: 0.000175 segundos
 
 ===== Array Ordenado ====
 7720

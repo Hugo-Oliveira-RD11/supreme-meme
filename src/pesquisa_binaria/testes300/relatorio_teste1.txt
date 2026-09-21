@@ -2,38 +2,38 @@ Relatorio 1 para o vetor de tamanho 300000 (Pesquisa Binaria)
 
 --- Busca do Alvo: 2136720149 ---
 Elemento encontrado no indice = 298540
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000002 segundos
 
 --- Busca do Alvo: 1749524285 ---
 Elemento encontrado no indice = 244287
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 1380923657 ---
 Elemento encontrado no indice = 192764
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 545800645 ---
 Elemento encontrado no indice = 76508
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 714204102 ---
 Elemento encontrado no indice = 99998
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo inicio: 0.162006
-Tempo do termino: 0.162007
+Tempo inicio: 0.087321
+Tempo do termino: 0.087322
 Tempo de execucao: 0.000001 segundos
 
 ===== Array Ordenado ====

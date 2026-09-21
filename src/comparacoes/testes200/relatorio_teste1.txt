@@ -9,27 +9,27 @@ Tempo de execucao: 0.000001 segundos
 --- Alvo (Indice): 50000 ---
 Elemento encontrado no indice = 50000
 Numero de comparacoes: 50001
-Tempo de execucao: 0.000023 segundos
+Tempo de execucao: 0.000022 segundos
 
 --- Alvo (Indice): 100000 ---
 Elemento encontrado no indice = 100000
 Numero de comparacoes: 100001
-Tempo de execucao: 0.000044 segundos
+Tempo de execucao: 0.000038 segundos
 
 --- Alvo (Indice): 150000 ---
 Elemento encontrado no indice = 150000
 Numero de comparacoes: 150001
-Tempo de execucao: 0.000065 segundos
+Tempo de execucao: 0.000054 segundos
 
 --- Alvo (Indice): 199999 ---
 Elemento encontrado no indice = 199999
 Numero de comparacoes: 200000
-Tempo de execucao: 0.000087 segundos
+Tempo de execucao: 0.000070 segundos
 
 --- Alvo (Indice): -1 ---
 Elemento nao encontrado
-Numero de comparacoes: 1
-Tempo de execucao: 0.000001 segundos
+Numero de comparacoes: 200000
+Tempo de execucao: 0.000093 segundos
 
 ========== PESQUISAS BINARIAS ==========
 --- Alvo (Indice): 0 ---
@@ -59,7 +59,7 @@ Tempo de execucao: 0.000001 segundos
 
 --- Alvo (Indice): -1 ---
 Elemento nao encontrado
-Numero de comparacoes: 0
+Numero de comparacoes: 17
 Tempo de execucao: 0.000001 segundos
 
 ===== Array Ordenado ====

@@ -139,10 +139,8 @@ int CriarRelatorio(char *pasta, int *vetor, int tamanho, int numero_teste,
 int ExecutarTestesPesquisa(int *vetor, int tamanho, int numero_teste) {
   char *pasta;
   int targetA[6] = {16660986, 104177966, 187920493, 1123118252, 120736693, 73};
-  int targetB[6] = {1111381307, 84434356,   1096188887,
-                    846248342,  2136419159, 73};
-  int targetC[6] = {2136720149, 1749524285, 1380923657,
-                    545800645,  714204102,  73};
+  int targetB[6] = {1111381307, 84434356,   1096188887, 846248342,  2136419159, 73};
+  int targetC[6] = {2136720149, 1749524285, 1380923657, 545800645,  714204102,  73};
   int *target;
 
   switch (tamanho) {

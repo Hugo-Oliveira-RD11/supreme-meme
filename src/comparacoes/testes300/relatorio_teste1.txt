@@ -4,32 +4,32 @@ Relatorio 1 para o vetor de tamanho 300000 (Analise de Comparacoes)
 --- Alvo (Indice): 0 ---
 Elemento encontrado no indice = 0
 Numero de comparacoes: 1
-Tempo de execucao: 0.000001 segundos
+Tempo de execucao: 0.000002 segundos
 
 --- Alvo (Indice): 74999 ---
 Elemento encontrado no indice = 74999
 Numero de comparacoes: 75000
-Tempo de execucao: 0.000033 segundos
+Tempo de execucao: 0.000024 segundos
 
 --- Alvo (Indice): 149999 ---
 Elemento encontrado no indice = 149999
 Numero de comparacoes: 150000
-Tempo de execucao: 0.000067 segundos
+Tempo de execucao: 0.000046 segundos
 
 --- Alvo (Indice): 224999 ---
 Elemento encontrado no indice = 224999
 Numero de comparacoes: 225000
-Tempo de execucao: 0.000098 segundos
+Tempo de execucao: 0.000069 segundos
 
 --- Alvo (Indice): 299999 ---
 Elemento encontrado no indice = 299999
 Numero de comparacoes: 300000
-Tempo de execucao: 0.000135 segundos
+Tempo de execucao: 0.000091 segundos
 
 --- Alvo (Indice): -1 ---
 Elemento nao encontrado
-Numero de comparacoes: 1
-Tempo de execucao: 0.000001 segundos
+Numero de comparacoes: 300000
+Tempo de execucao: 0.000138 segundos
 
 ========== PESQUISAS BINARIAS ==========
 --- Alvo (Indice): 0 ---
@@ -59,7 +59,7 @@ Tempo de execucao: 0.000001 segundos
 
 --- Alvo (Indice): -1 ---
 Elemento nao encontrado
-Numero de comparacoes: 0
+Numero de comparacoes: 18
 Tempo de execucao: 0.000001 segundos
 
 ===== Array Ordenado ====

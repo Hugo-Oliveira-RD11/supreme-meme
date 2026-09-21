@@ -89,37 +89,30 @@ int Gerar(int *vetor, int tamanho) {
   return 0;
 }
 
-int PesquisaSequencial(int *V, int N, int Chave, int *count) {
+int PesquisaSequencial(int *V, int N, int ValorProcurado, int *count) {
   for (int i = 0; i < N; i++) {
     (*count)++;
-    if (Chave >= 0 && Chave < N && V[i] == V[Chave])
+    if (V[i] == ValorProcurado) {
       return i;
-    else if (Chave < 0) {
-      // Caso especial para chave invalida/nao existente (-1)
-      return -1;
     }
   }
-  return -1; // O elemento não está no conjunto
+  return -1;
 }
 
-int PesquisaBinaria(int *V, int N, int Chave, int *count) {
-  if (Chave < 0 || Chave >= N)
-    return -1;
-
+int PesquisaBinaria(int *V, int N, int ValorProcurado, int *count) {
   int Esquerda = 0;
   int Direita = N - 1;
   while (Esquerda <= Direita) {
     int Meio = (Esquerda + Direita) / 2;
 
     (*count)++;
-    if (V[Meio] == V[Chave])
-      return Meio;
-    else if (V[Meio] < V[Chave])
+    if (V[Meio] == ValorProcurado)
+      return Meio; else if (V[Meio] < ValorProcurado)
       Esquerda = Meio + 1;
     else
       Direita = Meio - 1;
   }
-  return -1; // O elemento não está no conjunto
+  return -1;
 }
 
 int CriarRelatorio(char *pasta, int *vetor, int tamanho, int numero_teste, int target[],
@@ -206,8 +199,11 @@ int ExecutarTestesPesquisa(int *vetor, int tamanho, int numero_teste) {
   printf("=========== PESQUISAS SEQUENCIAIS (%s) ===========\n", pasta);
   for (int i = 0; i < 6; i++) {
     int comparacoes = 0;
+
+    int valor_procurado = (target[i] == -1) ? -1 : vetor[target[i]];
+
     clock_t inicio = clock();
-    seq_encontrados[i] = PesquisaSequencial(vetor, tamanho, target[i], &comparacoes);
+    seq_encontrados[i] = PesquisaSequencial(vetor, tamanho, valor_procurado, &comparacoes);
     clock_t termino = clock();
 
     seq_comparacoes[i] = comparacoes;
@@ -225,8 +221,11 @@ int ExecutarTestesPesquisa(int *vetor, int tamanho, int numero_teste) {
   printf("=========== PESQUISAS BINARIAS (%s) ===========\n", pasta);
   for (int i = 0; i < 6; i++) {
     int comparacoes = 0;
+
+    int valor_procurado = (target[i] == -1) ? -1 : vetor[target[i]];
+
     clock_t inicio = clock();
-    bin_encontrados[i] = PesquisaBinaria(vetor, tamanho, target[i], &comparacoes);
+    bin_encontrados[i] = PesquisaBinaria(vetor, tamanho, valor_procurado, &comparacoes);
     clock_t termino = clock();
 
     bin_comparacoes[i] = comparacoes;
@@ -285,7 +284,3 @@ int main() {
 
   return 0;
 }
-
-
-
-

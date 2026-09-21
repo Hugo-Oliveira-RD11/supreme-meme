@@ -2,39 +2,39 @@ Relatorio 1 para o vetor de tamanho 100000 (Pesquisa Binaria)
 
 --- Busca do Alvo: 16660986 ---
 Elemento encontrado no indice = 786
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
 Tempo de execucao: 0.000002 segundos
 
 --- Busca do Alvo: 104177966 ---
 Elemento encontrado no indice = 4793
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 187920493 ---
 Elemento encontrado no indice = 8761
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 1123118252 ---
 Elemento encontrado no indice = 52062
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 120736693 ---
 Elemento encontrado no indice = 5554
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
 Tempo de execucao: 0.000001 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo inicio: 0.092531
-Tempo do termino: 0.092531
-Tempo de execucao: 0.000000 segundos
+Tempo inicio: 0.015614
+Tempo do termino: 0.015615
+Tempo de execucao: 0.000001 segundos
 
 ===== Array Ordenado ====
 7720

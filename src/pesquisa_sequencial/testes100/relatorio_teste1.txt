@@ -2,39 +2,39 @@ Relatorio 1 para o vetor de tamanho 100000
 
 --- Busca do Alvo: 16660986 ---
 Elemento encontrado no indice = 786
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000001 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000002 segundos
 
 --- Busca do Alvo: 104177966 ---
 Elemento encontrado no indice = 4793
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000002 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000004 segundos
 
 --- Busca do Alvo: 187920493 ---
 Elemento encontrado no indice = 8761
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000003 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000006 segundos
 
 --- Busca do Alvo: 1123118252 ---
 Elemento encontrado no indice = 52062
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000016 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000036 segundos
 
 --- Busca do Alvo: 120736693 ---
 Elemento encontrado no indice = 5554
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000003 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000005 segundos
 
 --- Busca do Alvo: 73 ---
 Elemento nao encontrado
-Tempo de Inicio: 0.086477
-Tempo do termino: 0.086508
-Tempo de execucao: 0.000031 segundos
+Tempo de Inicio: 0.015635
+Tempo do termino: 0.015699
+Tempo de execucao: 0.000064 segundos
 
 ===== Array Ordenado ====
 7720
