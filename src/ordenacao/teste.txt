@@ -1,7 +1,0 @@
-1159685912 
-1746680625 
-
-==TERMINO DA ORDENACAO== 
-Inicio: 0.002
-Termino: 0.002
-Tempo de execucao: 0.000
