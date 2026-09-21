@@ -20,4 +20,4 @@ ax.legend()
 
 ax.grid(True, linestyle=':', alpha=0.6)
 
-plt.savefig("grafico_comparativo_pesquisas.png", dpi=300, bbox_inches="tight")
+plt.savefig("grafico_comparativo_pesquisas200.png", dpi=300, bbox_inches="tight")
