@@ -10,6 +10,9 @@ ax.scatter(x, y, color='blue', s=50)
 ax.set_title("Pesquisa Sequencial em um vetor de 300 mil elementos")
 ax.set_xlabel("Índice do elemento")
 ax.set_ylabel("Tempo decorrido (segundos)")
-ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+
+ax.ticklabel_format(style='sci', axis='x', scilimits=(0, 0))
+
+ax.xaxis.set_major_formatter(ticker.ScalarFormatter(useMathText=True))
 
 plt.savefig("grafico_dispersao_300.png", dpi=300, bbox_inches="tight")
